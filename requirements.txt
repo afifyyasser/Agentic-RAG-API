@@ -1,0 +1,12 @@
+#pip install langchain_community langchain_chroma langchain_openai chromadb python-dotenv
+
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+chromadb
+pydantic
+requests
